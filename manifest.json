@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Sanctuary Metals Dialer",
-  "version": "2.5.9",
+  "version": "2.6.0",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoRvuQevbGKfamy9AtVZdZ4zNWPp0EdG/yOj/2LIqjuizADPxKnvIQulPlqTpB1YRRHXY5REbueAMwT5qMmc4K2BRX7rQv2nEuX9+2Y/xKfy+zsJEzXBksAT8omtn+U5xHaob+UgO8OUW16A6hUEqzAT6WFNoBauNLdKpTYnUuEH1+UqdPcfYT5f8KSU5Ras3Rx+nAv7kkg9QlrMx4+m6K3XKwQAO7IiuIqfDWt0a4Z4zU8QCABOfIjG5j7BuxUYg3/54nsGhVn/a4oanU9UDBu10wo33i7KjLrwhh+r8gX9ecUFzHekZbAk3i65MpIQY6aDN0DxWM3YH1507pnNdLwIDAQAB",
   "description": "Auto-dials a HubSpot contact list through an embedded RingCentral phone and logs each call back to HubSpot.",
   "icons": {
